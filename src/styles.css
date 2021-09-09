@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.facebook--header {
+  background-color: blue;
+  padding: 1rem;
+  color: white;
+}
+
+.twitter--header {
+  background-color: green;
+  padding: 1rem;
+  color: white;
+}
+
+.facebook--body,
+.twitter--body {
+  padding: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.facebook--body {
+  background-color: cyan;
+}
+
+.twitter--body {
+  background-color: red;
+}
